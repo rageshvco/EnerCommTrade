@@ -1,0 +1,9 @@
+Available Endpoints
+The Commodities-API API comes with X API endpoints, each providing a different functionality. Please note that depending on your subscription plan, certain API endpoints may or may not be available.
+
+Latest rates endpoint: Returns real-time commodities rates data for all available or a specific set of currencies (The number of symbols per API request depends on the acquired plan).
+Convert endpoint: Allows for conversion of any amount from one currency to another.
+Historical rates endpoint: Returns historical commodities rates data for a specific set of currencies. (The number of symbols per API request depends on the acquired plan).
+Time-Series data endpoint: Returns daily historical commodities rates data between two specified dates for a Commodity. (The date limits per API request depends on the acquired plan).
+Fluctuation data endpoint: Returns fluctuation data between two specified dates for all available or a specific set of currencies. (The date limits per API request depends on the acquired plan).
+Open/High/Low/Close (OHLC): Allows you to query the API to get the open, high, low, and close price.
